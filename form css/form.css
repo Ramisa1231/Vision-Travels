@@ -1,0 +1,38 @@
+
+fieldset legend
+{
+font-size:50px; 
+width:500px;
+color:white;
+}
+
+
+label {
+color: white;
+font-weight: bold;
+font-size: 30px;
+display: block;
+width: 400px;
+
+}
+.personal_info label
+{
+  width:250px;
+}
+.order_info label
+{
+  width:230px;
+}
+.flight_info label
+{
+  width:250px;
+}
+.hotel_info label
+{
+width:250px;
+}
+.car_info label
+{
+width:250px;
+}
+
